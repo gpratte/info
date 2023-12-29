@@ -1,2 +1,2 @@
-# me
+# info
 Information about Gil Pratte
